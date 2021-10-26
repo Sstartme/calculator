@@ -53,7 +53,7 @@
                             </select><br><br>
 
                                 Seite a: <input type ="number" name = "sideA" ><br><br>
-                                Seite b: <input type ="number" name = "sideB" ><br><br>
+                                Seite b/Ankathete: <input type ="number" name = "sideB" ><br><br>
                                 Seite c: <input type ="number" name = "sideC" ><br><br>
 
                                 Sinus: <input type ="number" name = "sinus" ><br><br>
